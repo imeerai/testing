@@ -80,10 +80,10 @@ export default function SignInPage() {
                 <p className="font-medium mb-2">Demo Credentials:</p>
                 <div className="space-y-1 text-xs">
                   <p>
-                    <strong>Investor:</strong> investor@imeer.ai / investor
+                    <strong>Investor:</strong> investor@gmail.com / investor
                   </p>
                   <p>
-                    <strong>Entrepreneur:</strong> entrepreneur@imeer.ai / entrepreneur
+                    <strong>Entrepreneur:</strong> entrepreneur@gmail.com / entrepreneur
                   </p>
                   <p>
                     <strong>Admin:</strong> admin@gmail.com / Admin123

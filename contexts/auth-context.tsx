@@ -54,7 +54,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       const demoUsers = [
         {
           id: "1",
-          email: "investor@imeer.ai",
+          email: "investor@gmail.com",
           password: "investor",
           role: "investor" as const,
           firstName: "laiba",
