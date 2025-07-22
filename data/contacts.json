@@ -2,8 +2,8 @@
   "contacts": [
     {
       "id": "1",
-      "name": "laiba rafique",
-      "email": "laibaexample.com",
+      "name": "Laiba Doe",
+      "email": "Laiba@example.com",
       "subject": "Partnership Inquiry",
       "message": "I'm interested in learning more about your platform and potential partnership opportunities.",
       "date": "2025-01-15",
@@ -11,8 +11,8 @@
     },
     {
       "id": "2",
-      "name": "Manahil Yousf",
-      "email": "mano@startup.com",
+      "name": "Jane Rafique",
+      "email": "jane@startup.com",
       "subject": "Technical Support",
       "message": "I'm having trouble accessing my dashboard. Can you please help?",
       "date": "2025-01-14",

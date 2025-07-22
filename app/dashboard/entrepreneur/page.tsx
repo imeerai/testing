@@ -55,12 +55,12 @@ export default function EntrepreneurDashboard() {
         const demoInvestors = [
           {
             id: "1",
-            firstName: "laiba rafique",
+            firstName: "Laiba",
             lastName: "Rafique",
             email: "investor@gmail.com",
             profile: {
-              photo: "/investor.jpg?height=100&width=100",
-              company: "laiba Ventures",
+              photo: "/placeholder.svg?height=100&width=100",
+              company: "Rafique Ventures",
               description: "Experienced investor focusing on early-stage startups with innovative solutions.",
               field: "Technology, Healthcare",
               experience: "15 years in venture capital",
@@ -72,12 +72,12 @@ export default function EntrepreneurDashboard() {
           },
           {
             id: "4",
-            firstName: "Manhail",
-            lastName: "yousf",
-            email: "mano.investor@gmail.com",
+            firstName: "Manahil",
+            lastName: "Yousf",
+            email: "Manahil.investor@example.com",
             profile: {
-              photo: "/enter.jpg?height=100&width=100",
-              company: "mano Capital",
+              photo: "/placeholder.svg?height=100&width=100",
+              company: "Yousf Capital",
               description: "Angel investor with a focus on disruptive financial technologies.",
               field: "Fintech, E-commerce",
               experience: "10 years in angel investing",
@@ -89,11 +89,11 @@ export default function EntrepreneurDashboard() {
           },
           {
             id: "8",
-            firstName: "Ali",
-            lastName: "Abbas",
-            email: "abbass@techventures.com",
+            firstName: "amna",
+            lastName: "memon",
+            email: "amna@techventures.com",
             profile: {
-              photo: "/ali.jpg?height=100&width=100",
+              photo: "/placeholder.svg?height=100&width=100",
               company: "Tech Ventures",
               description: "Former tech executive turned investor, specializing in AI and machine learning startups.",
               field: "AI, Machine Learning, SaaS",
@@ -106,11 +106,11 @@ export default function EntrepreneurDashboard() {
           },
           {
             id: "9",
-            firstName: "andreww",
-            lastName: "Lee",
-            email: "andrewlee@greenventures.com",
+            firstName: "abrar",
+            lastName: "ahmed",
+            email: "abrar@greenventures.com",
             profile: {
-              photo: "/ad.jpg?height=100&width=100",
+              photo: "/placeholder.svg?height=100&width=100",
               company: "Green Ventures",
               description: "Impact investor focused on sustainable and environmentally conscious startups.",
               field: "CleanTech, Sustainability, GreenTech",
@@ -272,7 +272,7 @@ export default function EntrepreneurDashboard() {
                     </AvatarFallback>
                   </Avatar>
                   <div>
-                    <p className="font-medium">John Smith</p>
+                    <p className="font-medium">Laiba Rafique</p>
                     <p className="text-sm text-muted-foreground">Interested in your AI platform</p>
                   </div>
                 </div>
@@ -299,7 +299,7 @@ export default function EntrepreneurDashboard() {
                     </AvatarFallback>
                   </Avatar>
                   <div>
-                    <p className="font-medium">Mike Chen</p>
+                    <p className="font-medium">Manahil Yousf</p>
                     <p className="text-sm text-muted-foreground">Wants to discuss funding options</p>
                   </div>
                 </div>

@@ -7,13 +7,13 @@
         {
           "id": "1",
           "senderId": "1",
-          "message": "Hi laina, I'm interested in your AI platform. Can we discuss investment opportunities?",
+          "message": "Hi Alia, I'm interested in your AI platform. Can we discuss investment opportunities?",
           "timestamp": "2025-01-15T10:30:00Z"
         },
         {
           "id": "2",
           "senderId": "2",
-          "message": "Hello Mano! I'd love to discuss this with you. When would be a good time for a call?",
+          "message": "Hello Laiba! I'd love to discuss this with you. When would be a good time for a call?",
           "timestamp": "2025-01-15T11:00:00Z"
         },
         {
@@ -31,13 +31,13 @@
         {
           "id": "4",
           "senderId": "4",
-          "message": "Andrew, your sustainable packaging solution looks promising. I'd like to learn more.",
+          "message": "Fatima, your sustainable packaging solution looks promising. I'd like to learn more.",
           "timestamp": "2025-01-16T09:00:00Z"
         },
         {
           "id": "5",
           "senderId": "5",
-          "message": "Thank you Ali! I'd be happy to share more details about our traction and growth plans.",
+          "message": "Thank you Manahil! I'd be happy to share more details about our traction and growth plans.",
           "timestamp": "2025-01-16T09:30:00Z"
         }
       ]

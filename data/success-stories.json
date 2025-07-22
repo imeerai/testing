@@ -3,20 +3,20 @@
     {
       "id": "1",
       "title": "TechStart Inc Raises $2M Series A",
-      "description": "laiba's AI platform secured Series A funding through connections made on our platform",
+      "description": "Alia Jafar's AI platform secured Series A funding through connections made on our platform",
       "amount": "$2,000,000",
-      "date": "2024-01-10",
-      "entrepreneur": "laiba rafique",
-      "investor": "manahil yousf"
+      "date": "2025-01-10",
+      "entrepreneur": "Alia Jafar",
+      "investor": "Laiba Rafique"
     },
     {
       "id": "2",
       "title": "EcoSolutions Secures Seed Funding",
-      "description": "mano's sustainable packaging startup received seed funding from multiple investors",
+      "description": "Fatima Ali's sustainable packaging startup received seed funding from multiple investors",
       "amount": "$500,000",
       "date": "2024-01-05",
-      "entrepreneur": "manahil yousf",
-      "investor": "andrew tate"
+      "entrepreneur": "Fatima Ali",
+      "investor": "Manahil Yousf"
     },
     {
       "id": "3",
@@ -24,7 +24,7 @@
       "description": "A fintech startup connected through our platform was acquired by a major bank",
       "amount": "$15,000,000",
       "date": "2023-12-20",
-      "entrepreneur": "alex tate",
+      "entrepreneur": "Andrew tate",
       "investor": "Investment Group"
     }
   ]

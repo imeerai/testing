@@ -44,43 +44,19 @@ A comprehensive networking platform that connects investors and entrepreneurs to
 - **Icons**: Lucide React
 - **Animations**: CSS animations and transitions
 
-## 📦 Installation
+## 🔐 Demo Credentials
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn package manager
+### Investor Account
+- **Email**: investor@gmail.com
+- **Password**: investor
 
-### Steps
+### Entrepreneur Account
+- **Email**: entrepreneur@gmail.com
+- **Password**: entrepreneur
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone <repository-url>
-   cd business-nexus
-   \`\`\`
-
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
-
-3. **Run the development server**
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
-
-
-## 🌐 Live Demo
-
-You can explore the live project here:  
-👉 [Business Nexus – Live Website](https://bntask2.vercel.app)
+### Admin Account
+- **Email**: admin@gmail.com
+- **Password**: Admin123
 
 ## 🙏 Acknowledgments
 
@@ -88,6 +64,7 @@ You can explore the live project here:
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Development**: Powered by [BUSINESS NEXUS](#)
 
 ## 📞 Support
 
@@ -95,4 +72,4 @@ For support, email support@businessnexus.com or join our community discussions.
 
 ---
 
-**Built with ❤️ by the LAIBA RAFIQUE**
+**Built with ❤️ by the Business Nexus team**

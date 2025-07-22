@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Business Nexus - Connect Investors & Entrepreneurs",
   description: "A platform connecting investors and entrepreneurs for business growth and funding opportunities.",
-    generator: 'v0.dev'
+    generator: 'laiba Rafique'
 }
 
 export default function RootLayout({

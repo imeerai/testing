@@ -53,11 +53,11 @@ export default function InvestorDashboard() {
         const demoEntrepreneurs = [
           {
             id: "2",
-            firstName: "laiba",
-            lastName: "rafique",
+            firstName: "Alia",
+            lastName: "Jafar",
             email: "entrepreneur@gmail.com",
             profile: {
-              photo: "/investor.jpg?height=100&width=100",
+              photo: "/placeholder.svg?height=100&width=100",
               company: "TechStart Inc",
               bio: "Passionate entrepreneur building the next generation of AI solutions",
               startupDescription: "AI-powered customer service platform that reduces response time by 80%",
@@ -68,11 +68,11 @@ export default function InvestorDashboard() {
           },
           {
             id: "5",
-            firstName: "manahil",
-            lastName: "yousf",
-            email: "mano.entrepreneur@example.com",
+            firstName: "Fatima",
+            lastName: "Ali",
+            email: "Fatima.entrepreneur@example.com",
             profile: {
-              photo: "/enter.jpg?height=100&width=100",
+              photo: "/placeholder.svg?height=100&width=100",
               company: "EcoSolutions",
               bio: "Environmental engineer turned entrepreneur, dedicated to sustainable solutions",
               startupDescription: "Sustainable packaging solutions for e-commerce businesses",
@@ -83,12 +83,12 @@ export default function InvestorDashboard() {
           },
           {
             id: "6",
-            firstName: "Sharjeel",
-            lastName: "Hussain",
-            email: "sharjeeel@fintech.com",
+            firstName: "Andrew",
+            lastName: "tate",
+            email: "Andrew@fintech.com",
             profile: {
-              photo: "/ali.jpg?height=100&width=100",
-              company: "FinTech Innovations",
+              photo: "/placeholder.svg?height=100&width=100",
+              company: "AndrewTech Innovations",
               bio: "Former Goldman Sachs analyst building the future of digital payments",
               startupDescription: "Blockchain-based payment platform for emerging markets",
               fundingNeed: "$1,200,000",
@@ -98,11 +98,11 @@ export default function InvestorDashboard() {
           },
           {
             id: "7",
-            firstName: "andrew",
-            lastName: "tate",
-            email: "andrew@healthtech.com",
+            firstName: "ayesha",
+            lastName: "Awan",
+            email: "ayeshaawann@healthtech.com",
             profile: {
-              photo: "/ad.jpg?height=100&width=100",
+              photo: "/placeholder.svg?height=100&width=100",
               company: "HealthTech Solutions",
               bio: "Medical doctor and tech entrepreneur focused on healthcare innovation",
               startupDescription: "Telemedicine platform connecting patients with specialists globally",

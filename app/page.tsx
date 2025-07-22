@@ -110,7 +110,7 @@ export default function HomePage() {
               <CardContent>
                 <p className="text-2xl font-bold text-green-600 mb-2">$2M Raised</p>
                 <CardDescription>
-                  Sarah Johnson's AI platform secured Series A funding through connections made on our platform.
+                  Alia Jafar's AI platform secured Series A funding through connections made on our platform.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -126,7 +126,7 @@ export default function HomePage() {
               <CardContent>
                 <p className="text-2xl font-bold text-blue-600 mb-2">$500K Raised</p>
                 <CardDescription>
-                  Lisa Rodriguez's sustainable packaging startup received seed funding from multiple investors.
+                  Fatima Ali's sustainable packaging startup received seed funding from multiple investors.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -169,7 +169,7 @@ export default function HomePage() {
                   </div>
                   <Badge variant="outline">Investor</Badge>
                 </div>
-                <CardTitle>laiba rafique</CardTitle>
+                <CardTitle>Laiba Rafique</CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription>
@@ -189,7 +189,7 @@ export default function HomePage() {
                   </div>
                   <Badge variant="outline">Entrepreneur</Badge>
                 </div>
-                <CardTitle>Manahil Yousf</CardTitle>
+                <CardTitle>Alia Jafar</CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription>
@@ -210,7 +210,7 @@ export default function HomePage() {
                   </div>
                   <Badge variant="outline">Investor</Badge>
                 </div>
-                <CardTitle>Ahmed Qadeer</CardTitle>
+                <CardTitle>Manahil Yousf</CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription>

@@ -73,7 +73,7 @@ export default function DocsPage() {
                         variant="secondary"
                         className="bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200"
                       >
-                        Updated Jan 2024
+                        Updated Jan 2025
                       </Badge>
                     </CardTitle>
                     <CardDescription className="text-base mt-2">

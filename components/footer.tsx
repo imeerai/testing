@@ -14,7 +14,7 @@ export function Footer() {
             <p className="text-sm text-muted-foreground">
               Website formation and development by{" "}
               <Link href="#" className="text-primary hover:underline">
-              laiba rafique
+                Laiba Rafique
               </Link>
             </p>
           </div>
@@ -68,7 +68,7 @@ export function Footer() {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2025 Business Nexus. All rights reserved. Powered by laiba rafique</p>
+          <p>&copy; 2025 Business Nexus. All rights reserved. Powered by laiba</p>
         </div>
       </div>
     </footer>

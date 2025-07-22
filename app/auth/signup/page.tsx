@@ -59,7 +59,7 @@ export default function SignUpPage() {
                   <Label htmlFor="firstName">First Name</Label>
                   <Input
                     id="firstName"
-                    placeholder="laiba"
+                    placeholder="Laiba"
                     value={formData.firstName}
                     onChange={(e) => handleInputChange("firstName", e.target.value)}
                     required
@@ -82,7 +82,7 @@ export default function SignUpPage() {
                 <Input
                   id="contact"
                   type="tel"
-                  placeholder="+92-3xx-xxx-xxxx"
+                  placeholder="+92-318-222-1234"
                   value={formData.contact}
                   onChange={(e) => handleInputChange("contact", e.target.value)}
                   required
@@ -94,7 +94,7 @@ export default function SignUpPage() {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="laiba@example.com"
+                  placeholder="Laiba@example.com"
                   value={formData.email}
                   onChange={(e) => handleInputChange("email", e.target.value)}
                   required

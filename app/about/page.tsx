@@ -162,9 +162,9 @@ export default function AboutPage() {
               <CardHeader>
                 <Avatar className="w-24 h-24 mx-auto mb-4">
                   <AvatarImage src="/placeholder.svg?height=96&width=96" />
-                  <AvatarFallback>MY</AvatarFallback>
+                  <AvatarFallback>AJ</AvatarFallback>
                 </Avatar>
-                <CardTitle>Manahil Yousf</CardTitle>
+                <CardTitle>Alia Jafar</CardTitle>
                 <CardDescription>CTO & Co-Founder</CardDescription>
               </CardHeader>
               <CardContent>
@@ -180,7 +180,7 @@ export default function AboutPage() {
                   <AvatarImage src="/placeholder.svg?height=96&width=96" />
                   <AvatarFallback>AA</AvatarFallback>
                 </Avatar>
-                <CardTitle>Anza Arain</CardTitle>
+                <CardTitle>Manahil Yousf</CardTitle>
                 <CardDescription>Head of Partnerships</CardDescription>
               </CardHeader>
               <CardContent>
@@ -204,7 +204,7 @@ export default function AboutPage() {
             <Card className="text-center">
               <CardHeader>
                 <Award className="h-12 w-12 text-yellow-500 mx-auto mb-4" />
-                <CardTitle>Best Fintech Platform 2024</CardTitle>
+                <CardTitle>Best Fintech Platform 2025</CardTitle>
                 <CardDescription>TechCrunch Awards</CardDescription>
               </CardHeader>
             </Card>

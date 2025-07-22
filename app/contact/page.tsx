@@ -75,7 +75,7 @@ export default function ContactPage() {
                       <Label htmlFor="name">Full Name</Label>
                       <Input
                         id="name"
-                        placeholder="laiba rafique"
+                        placeholder="Laiba Rafique"
                         value={formData.name}
                         onChange={(e) => handleInputChange("name", e.target.value)}
                         required
@@ -86,7 +86,7 @@ export default function ContactPage() {
                       <Input
                         id="email"
                         type="email"
-                        placeholder="laiba@example.com"
+                        placeholder="Laiba@example.com"
                         value={formData.email}
                         onChange={(e) => handleInputChange("email", e.target.value)}
                         required
@@ -152,7 +152,7 @@ export default function ContactPage() {
                     <Phone className="h-6 w-6 text-primary mt-1" />
                     <div>
                       <h3 className="font-semibold">Phone</h3>
-                      <p className="text-muted-foreground">+92 (3xx) xxx-xxxx</p>
+                      <p className="text-muted-foreground">+1 (555) 123-4567</p>
                       <p className="text-sm text-muted-foreground">Monday - Friday, 9 AM - 6 PM EST</p>
                     </div>
                   </div>
@@ -164,7 +164,7 @@ export default function ContactPage() {
                       <p className="text-muted-foreground">
                         123 Business District
                         <br />
-                        lahore, NY 15050
+                        lahore, LHR 10001
                         <br />
                         Pakistan
                       </p>

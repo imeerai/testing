@@ -3,7 +3,7 @@
     {
       "id": "1",
       "userId": "1",
-      "userName": "Manahil Yousf",
+      "userName": "Laiba Rafique",
       "userRole": "investor",
       "rating": 5,
       "comment": "This platform helped me find amazing startups to invest in. The connection process is seamless!",
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "userId": "2",
-      "userName": "laiba rafique",
+      "userName": "Alia Jafar",
       "userRole": "entrepreneur",
       "rating": 5,
       "comment": "Found the perfect investor for my startup within weeks. Highly recommended!",
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "userId": "4",
-      "userName": "kazim shah",
+      "userName": "Manahil Yousf",
       "userRole": "investor",
       "rating": 4,
       "comment": "Great platform with quality entrepreneurs. The verification process ensures credibility.",

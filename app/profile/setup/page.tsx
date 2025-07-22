@@ -151,7 +151,7 @@ export default function ProfileSetup() {
                     <Input
                       id="phone"
                       type="tel"
-                      placeholder="+92-31x-xxx-xxxx"
+                      placeholder="+92-318-222-1234"
                       value={profileData.phone}
                       onChange={(e) => handleInputChange("phone", e.target.value)}
                       className="bg-background/50 border-purple-500/20 focus:border-purple-400"
@@ -170,7 +170,7 @@ export default function ProfileSetup() {
                         </Label>
                         <Input
                           id="addressTemporary"
-                          placeholder="123 Business St, NYC"
+                          placeholder="123 Business St, LHR"
                           value={profileData.addressTemporary}
                           onChange={(e) => handleInputChange("addressTemporary", e.target.value)}
                           className="bg-background/50 border-purple-500/20 focus:border-purple-400"
@@ -183,7 +183,7 @@ export default function ProfileSetup() {
                         </Label>
                         <Input
                           id="addressPermanent"
-                          placeholder="456 Home Ave, NYC"
+                          placeholder="456 Home Ave, LHR"
                           value={profileData.addressPermanent}
                           onChange={(e) => handleInputChange("addressPermanent", e.target.value)}
                           className="bg-background/50 border-purple-500/20 focus:border-purple-400"
