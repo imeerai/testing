@@ -75,27 +75,12 @@ A comprehensive networking platform that connects investors and entrepreneurs to
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🌐 Deployment
 
-### Deploy to Vercel
 
-1. **Push your code to GitHub**
-   \`\`\`bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   \`\`\`
+## 🌐 Live Demo
 
-2. **Connect to Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Import your GitHub repository
-   - Deploy with default settings
-
-3. **Data Handling**
-   Since this demo uses JSON files for data storage, the data will be read-only in production. For a production deployment, consider:
-   - Using a database (PostgreSQL, MongoDB, etc.)
-   - Implementing proper API endpoints
-   - Adding server-side authentication
+You can explore the live project here:  
+👉 [Business Nexus – Live Website](https://bntask2.vercel.app)
 
 ## 🙏 Acknowledgments
 
@@ -103,7 +88,6 @@ A comprehensive networking platform that connects investors and entrepreneurs to
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Development**: Powered by [imeer.ai](https://imeer.ai)
 
 ## 📞 Support
 
