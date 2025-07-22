@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "investor@gmail.com",
+      "password": "investor",
+      "role": "investor",
+      "firstName": "laiba",
+      "lastName": "rafique",
+      "contact": "+92-3xx-xxx-xxxx",
+      "isProfileComplete": true,
+      "profile": {
+        "photo": "/investor.jpg?height=100&width=100",
+        "company": "laiba Ventures",
+        "addressTemporary": "123 Business St, NYC",
+        "addressPermanent": "456 Home Ave, NYC",
+        "phone": "+92-312-222-1221",
+        "experience": "15 years in venture capital",
+        "field": "Technology, Healthcare",
+        "description": "Experienced investor focusing on early-stage startups with innovative solutions.",
+        "title": "Senior Partner at Smith Ventures",
+        "terms": "Minimum investment: $50K, Expected ROI: 15-25%, Investment period: 3-5 years",
+        "previousDeals": 12,
+        "rating": 4.8,
+        "isActive": true
+      }
+    },
+    {
+      "id": "2",
+      "email": "entrepreneur@gmail.com",
+      "password": "entrepreneur",
+      "role": "entrepreneur",
+      "firstName": "manahil",
+      "lastName": "yousf",
+      "contact": "+92-3xx-xxx-xxxx",
+      "isProfileComplete": true,
+      "profile": {
+        "photo": "/enter.jpg?height=100&width=100",
+        "company": "TechStart Inc",
+        "bio": "Passionate entrepreneur building the next generation of AI solutions",
+        "startupDescription": "AI-powered customer service platform that reduces response time by 80%",
+        "fundingNeed": "$500,000",
+        "pitchDeck": "Available upon request",
+        "previousFunding": "$100,000 seed round",
+        "rating": 4.6,
+        "isActive": true
+      }
+    },
+    {
+      "id": "3",
+      "email": "admin@gmail.com",
+      "password": "Admin123",
+      "role": "admin",
+      "firstName": "Admin",
+      "lastName": "User",
+      "contact": "+92-3xx-xxx-xxxx",
+      "isProfileComplete": true
+    },
+    {
+      "id": "4",
+      "email": "jameeel.investor@example.com",
+      "password": "password123",
+      "role": "investor",
+      "firstName": "jameel",
+      "lastName": "shah",
+      "contact": "+92-3xx-xxx-xxxx",
+      "isProfileComplete": true,
+      "profile": {
+        "photo": "/ad.jpg?height=100&width=100",
+        "company": "jameel Capital",
+        "addressTemporary": "789 Investment Blvd, PK",
+        "addressPermanent": "321 Residential St, PK",
+        "phone": "+92-315-111-1221",
+        "experience": "10 years in angel investing",
+        "field": "Fintech, E-commerce",
+        "description": "Angel investor with a focus on disruptive financial technologies.",
+        "title": "Managing Partner at Chen Capital",
+        "terms": "Minimum investment: $25K, Expected ROI: 20-30%, Investment period: 2-4 years",
+        "previousDeals": 8,
+        "rating": 4.7,
+        "isActive": true
+      }
+    },
+    {
+      "id": "5",
+      "email": "lisa.entrepreneur@gmail.com",
+      "password": "password123",
+      "role": "entrepreneur",
+      "firstName": "Lisa",
+      "lastName": "Rodriguez",
+      "contact": "+92-3xx-xxx-xxxx",
+      "isProfileComplete": true,
+      "profile": {
+        "photo": "/investor.jpg?height=100&width=100",
+        "company": "EcoSolutions",
+        "bio": "Environmental engineer turned entrepreneur, dedicated to sustainable solutions",
+        "startupDescription": "Sustainable packaging solutions for e-commerce businesses",
+        "fundingNeed": "$750,000",
+        "pitchDeck": "Available upon request",
+        "previousFunding": "Bootstrapped",
+        "rating": 4.9,
+        "isActive": true
+      }
+    }
+  ]
+}

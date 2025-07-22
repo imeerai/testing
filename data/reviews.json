@@ -1,0 +1,31 @@
+{
+  "reviews": [
+    {
+      "id": "1",
+      "userId": "1",
+      "userName": "Manahil Yousf",
+      "userRole": "investor",
+      "rating": 5,
+      "comment": "This platform helped me find amazing startups to invest in. The connection process is seamless!",
+      "date": "2025-01-15"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "userName": "laiba rafique",
+      "userRole": "entrepreneur",
+      "rating": 5,
+      "comment": "Found the perfect investor for my startup within weeks. Highly recommended!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": "3",
+      "userId": "4",
+      "userName": "kazim shah",
+      "userRole": "investor",
+      "rating": 4,
+      "comment": "Great platform with quality entrepreneurs. The verification process ensures credibility.",
+      "date": "2025-01-25"
+    }
+  ]
+}
