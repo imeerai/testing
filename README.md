@@ -75,50 +75,6 @@ A comprehensive networking platform that connects investors and entrepreneurs to
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🔐 Demo Credentials
-
-### Investor Account
-- **Email**: investor@imeer.ai
-- **Password**: investor
-
-### Entrepreneur Account
-- **Email**: entrepreneur@imeer.ai
-- **Password**: entrepreneur
-
-### Admin Account
-- **Email**: admin@imeer.ai
-- **Password**: Admin123
-
-## 📁 Project Structure
-
-\`\`\`
-business-nexus/
-├── app/                    # Next.js app directory
-│   ├── auth/              # Authentication pages
-│   ├── dashboard/         # User dashboards
-│   ├── admin/             # Admin panel
-│   ├── profile/           # Profile management
-│   ├── chat/              # Chat functionality
-│   ├── docs/              # Documentation page
-│   ├── about/             # About page
-│   ├── contact/           # Contact page
-│   └── globals.css        # Global styles
-├── components/            # Reusable components
-│   ├── ui/               # shadcn/ui components
-│   ├── navbar.tsx        # Navigation component
-│   ├── footer.tsx        # Footer component
-│   └── ...
-├── contexts/             # React contexts
-│   └── auth-context.tsx  # Authentication context
-├── data/                 # JSON data files
-│   ├── users.json        # User data
-│   ├── chats.json        # Chat messages
-│   ├── reviews.json      # User reviews
-│   └── ...
-├── hooks/                # Custom React hooks
-└── lib/                  # Utility functions
-\`\`\`
-
 ## 🌐 Deployment
 
 ### Deploy to Vercel
