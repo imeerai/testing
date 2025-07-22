@@ -86,7 +86,7 @@ export default function SignInPage() {
                     <strong>Entrepreneur:</strong> entrepreneur@imeer.ai / entrepreneur
                   </p>
                   <p>
-                    <strong>Admin:</strong> admin@imeer.ai / Admin123
+                    <strong>Admin:</strong> admin@gmail.com / Admin123
                   </p>
                 </div>
               </div>
