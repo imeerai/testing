@@ -74,7 +74,7 @@ export default function EntrepreneurDashboard() {
             id: "4",
             firstName: "Manhail",
             lastName: "yousf",
-            email: "mano.investor@example.com",
+            email: "mano.investor@gmail.com",
             profile: {
               photo: "/enter.jpg?height=100&width=100",
               company: "mano Capital",
